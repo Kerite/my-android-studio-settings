@@ -1,0 +1,20 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:mine -tag:OpenGLRenderer " />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine -tag:OpenGLRenderer " />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine ^o" />
+        <option value="package:mine ^(OpenGL)" />
+        <option value="package:mine " />
+        <option value="package:mine   ^(?!.(OpenGLRenderer)).$" />
+        <option value="package:mine  " />
+        <option value="package:mine" />
+      </list>
+    </option>
+  </component>
+</application>
