@@ -25,4 +25,8 @@
   <component name="JavaCodeFoldingSettings">
     <option name="collapseMultilineComments" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
