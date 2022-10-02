@@ -1,13 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="favorites">
-      <list>
-        <option value="package:mine -tag:OpenGLRenderer " />
-      </list>
-    </option>
-    <option name="mostRecentlyUsed" value="package:mine -tag:OpenGLRenderer " />
+    <option name="mostRecentlyUsed" value="package:mine -tag:GLRenderer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:GLRenderer" />
+        <option value="package:mine -tag:GLRenderer AppCenterStat" />
+        <option value="package:mine -tag:OpenGLRenderer" />
+        <option value="package:mine -tag:OpenGLRenderer AppCenter" />
+        <option value=" -tag:OpenGLRenderer AppCenter" />
+        <option value="package:mine -tag:OpenGLRenderer LifeCycle" />
+        <option value="package:mine -tag:OpenGLRenderer Lifecycle" />
+        <option value="package:mine -tag:OpenGLRenderer Activity" />
+        <option value="package:mine -tag:OpenGLRenderer Base" />
+        <option value="package:mine -tag:OpenGLRenderer " />
+        <option value="package:mine -tag:OpenGLRenderer  ActivityLifeCycle" />
         <option value="package:mine ^o" />
         <option value="package:mine ^(OpenGL)" />
         <option value="package:mine " />

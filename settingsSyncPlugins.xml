@@ -13,17 +13,6 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="String Manipulation">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="com.arcticicestudio.nord.jetbrains">
           <value>
             <PluginData>
@@ -48,31 +37,6 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.developerphil.adbidea">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.androidstudio" />
-                  <option value="com.intellij.modules.platform" />
-                  <option value="org.jetbrains.android" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.hiberbee.intellij.hiberbee-theme">
-          <value>
-            <PluginData>
-              <option name="category" value="UI" />
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="com.intellij.marketplace">
           <value>
             <PluginData>
@@ -84,34 +48,12 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.mallowigi">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="com.markskelton.one-dark-theme">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.nasller.CodeGlancePro">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
             </PluginData>
@@ -154,46 +96,12 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="lermitage.intellij.extratci">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="monokai-pro">
-          <value>
-            <PluginData>
-              <option name="category" value="UI" />
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="net.seesharpsoft.intellij.plugins.csv">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="some.awesome">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
