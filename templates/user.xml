@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="Editor Fold //" value="// &lt;editor-fold defaultstate=&quot;collapsed&quot; desc=&quot;$description$&quot;&gt;&#10;$SELECTION$&#10;// &lt;/editor-fold&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="Editor Fold //" value="// &lt;editor-fold defaultstate=&quot;collapsed&quot; desc=&quot;$description$&quot;&gt;&#10;$SELECTION$&#10;// &lt;/editor-fold&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
