@@ -1,6 +1,5 @@
 <application>
   <component name="CodeGlance Pro">
-    <option name="hideOriginalScrollBar" value="true" />
     <option name="rightAligned" value="false" />
   </component>
 </application>
